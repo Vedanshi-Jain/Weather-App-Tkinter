@@ -23,8 +23,8 @@ def openImage(iconName):
 def getWeather(city):
     try:
         weatherKey = 'weather key'
-        urlLatLon = 'http://api.openweathermap.org/geo/1.0/direct'
-        urlWeather='https://api.openweathermap.org/data/2.5/weather'
+        urlLatLon = 'URL Lat Lon'
+        urlWeather='URL weather'
 
         paramsForLatLon={'APPID':weatherKey,'q':city}
         responseLatLon=requests.get(urlLatLon,paramsForLatLon)
