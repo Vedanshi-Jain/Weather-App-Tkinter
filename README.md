@@ -13,3 +13,5 @@ Note :
 1. API key is generated when user signs in to the website Open Weather (https://openweathermap.org/).
 2. Weather icons and other URLs can be fetched from the same website.
 3. To install Pillow library, type 'pip install pillow' in the command prompt.
+
+<img width="894" height="623" alt="Screenshot" src="https://github.com/user-attachments/assets/b7447827-ab3f-4017-9d33-9ff51ab0d860" />
